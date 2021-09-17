@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "name": "Web dev simple project",
+      "id": 0,
+      "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi praesentium, recusandae aut fuga unde eum hic, totam nostrum numquam repellat molestias excepturi facilis fugit, ducimus maiores aspernatur accusantium. Consequatur quam commodi eaque ut natus consectetur, asperiores sed suscipit qu",
+      "complete": false
+    },
+    {
+      "name": "React recipe website",
+      "id": 1,
+      "details": "Lorem ipsum dolovoluptates, expedita repellendus optio quae dolorum accusamus magni earum natus molestiae, iste numquam? Debitis dolorem sint sed, necessitatibus quibusdam sit laboriosam. Molestias, quas delectus?",
+      "complete": false
+    },
+    {
+      "name": "Vue Web Planner",
+      "id": 2,
+      "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi praesentium, recusandae aut fuga unde eum hic, totam nostrum numquam repellat molestias excepturi facilis fugit, ducimus maiores aspernatur accusantium. Consequatur quam commodi eaque ut natus consectetur, asperiores sed suscipit quidem, quis, douas delectus?",
+      "complete": false
+    }
+  ]
+}

@@ -1,8 +1,15 @@
 <template>
   <h1>Project Planner</h1>
+  <NavBar />
   <router-view />
 </template>
 
+<script>
+import NavBar from "./components/NavBar.vue";
+export default {
+  components: { NavBar },
+};
+</script>
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -12,7 +19,7 @@
   margin: 0 auto;
   padding: 10px;
   background: #f2f2f2;
-  color: ddd;
+  color: #ddd;
 }
 
 #app h1 {

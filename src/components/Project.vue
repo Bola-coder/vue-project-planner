@@ -75,6 +75,7 @@ export default {
 
 .project-detail {
   line-height: 30px;
+  color: #222;
 }
 
 .action {

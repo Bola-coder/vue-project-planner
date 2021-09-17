@@ -9,7 +9,9 @@
         />
       </div>
     </div>
-    <div v-else style="text-align: center">Loading projects.....</div>
+    <div v-else style="text-align: center; color: black">
+      Loading projects.....
+    </div>
   </div>
 </template>
 

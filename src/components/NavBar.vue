@@ -1,7 +1,7 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link>
-    <router-link to="/add">Add New Project</router-link>
+    <router-link :to="{ name: 'Home' }">Home</router-link>
+    <router-link :to="{ name: 'AddProject' }">Add New Project</router-link>
   </nav>
 </template>
 
@@ -12,7 +12,7 @@ export default {};
 <style>
 nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   padding: 10px 20px;
 }
@@ -27,7 +27,7 @@ nav a {
 }
 
 nav a.router-link-exact-active {
-  background: #aaa;
-  border-radius: 10px;
+  border-bottom: 2px solid green;
+  padding-bottom: 5px;
 }
 </style>

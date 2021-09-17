@@ -14,7 +14,7 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 10px 20px;
+  padding: 5px 20px;
 }
 
 nav a {
@@ -23,7 +23,7 @@ nav a {
   color: #222;
   font-weight: bolder;
   padding: 6px 12px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 
 nav a.router-link-exact-active {

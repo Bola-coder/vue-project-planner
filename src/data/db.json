@@ -4,7 +4,7 @@
       "name": "Web dev simple project And all",
       "id": 1,
       "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi praesentium, recusandae aut fuga unde eum hic, totam nostrum numquam repellat molestias excepturi facilis fugit, ducimus maiores aspernatur accusantium. Consequatur quam commodi eaque ut natus consectetur, asperiores sed suscipit qu Oh mai gawd\n",
-      "complete": true
+      "complete": false
     },
     {
       "name": "React recipe website i made",
@@ -16,13 +16,19 @@
       "name": "Vue Web Planner",
       "id": 3,
       "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi praesentium, recusandae aut fuga unde eum hic, totam nostrum numquam repellat molestias excepturi facilis fugit, ducimus maiores aspernatur accusantium. Consequatur quam commodi eaque ut natus consectetur, asperiores sed suscipit quidem, quis, douas delectus?",
-      "complete": false
+      "complete": true
     },
     {
       "name": "Hello Wolrd",
       "details": "orem ipsum dolor, sit amet consectetur adipisicing elit. Nisi praesentium, recusandae aut fuga unde eum hic, totam nostrum numquam repellat molestias excepturi facilis fugit, ducimus maiores aspernatur accusantium. Consequatur quam commodi eaque ut natus, Let's code",
-      "complete": true,
+      "complete": false,
       "id": 4
+    },
+    {
+      "name": "Play football",
+      "details": "dbjnv cnkxnx",
+      "complete": true,
+      "id": 5
     }
   ]
 }

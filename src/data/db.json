@@ -1,26 +1,26 @@
 {
   "projects": [
     {
-      "name": "Web dev simple project",
-      "id": 0,
-      "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi praesentium, recusandae aut fuga unde eum hic, totam nostrum numquam repellat molestias excepturi facilis fugit, ducimus maiores aspernatur accusantium. Consequatur quam commodi eaque ut natus consectetur, asperiores sed suscipit qu",
+      "name": "Web dev simple project And all",
+      "id": 1,
+      "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi praesentium, recusandae aut fuga unde eum hic, totam nostrum numquam repellat molestias excepturi facilis fugit, ducimus maiores aspernatur accusantium. Consequatur quam commodi eaque ut natus consectetur, asperiores sed suscipit qu Oh mai gawd\n",
       "complete": true
     },
     {
-      "name": "React recipe website",
-      "id": 1,
-      "details": "Lorem ipsum dolovoluptates, expedita repellendus optio quae dolorum accusamus magni earum natus molestiae, iste numquam? Debitis dolorem sint sed, necessitatibus quibusdam sit laboriosam. Molestias, quas delectus?",
+      "name": "React recipe website i made",
+      "id": 2,
+      "details": "Lorem ipsum dolovoluptates, expedita repellendus optio quae dolorum accusamus magni earum natus molestiae, iste numquam? Debitis dolorem sint sed, necessitatibus quibusdam sit laboriosam. Molestias, quas delectus?\n\nStill on it\n",
       "complete": false
     },
     {
       "name": "Vue Web Planner",
-      "id": 2,
+      "id": 3,
       "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi praesentium, recusandae aut fuga unde eum hic, totam nostrum numquam repellat molestias excepturi facilis fugit, ducimus maiores aspernatur accusantium. Consequatur quam commodi eaque ut natus consectetur, asperiores sed suscipit quidem, quis, douas delectus?",
       "complete": false
     },
     {
-      "name": "Hello",
-      "details": "orem ipsum dolor, sit amet consectetur adipisicing elit. Nisi praesentium, recusandae aut fuga unde eum hic, totam nostrum numquam repellat molestias excepturi facilis fugit, ducimus maiores aspernatur accusantium. Consequatur quam commodi eaque ut natus",
+      "name": "Hello Wolrd",
+      "details": "orem ipsum dolor, sit amet consectetur adipisicing elit. Nisi praesentium, recusandae aut fuga unde eum hic, totam nostrum numquam repellat molestias excepturi facilis fugit, ducimus maiores aspernatur accusantium. Consequatur quam commodi eaque ut natus, Let's code",
       "complete": true,
       "id": 4
     }

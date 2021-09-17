@@ -5,7 +5,7 @@
     <label>Project Details</label>
     <textarea type="text" v-model="details" class="detail" required></textarea>
     <div class="submit">
-      <button>Submit</button>
+      <button>Add project</button>
     </div>
   </form>
 </template>
@@ -40,7 +40,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 form {
   max-width: 420px;
   margin: 30px auto;

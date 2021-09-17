@@ -3,9 +3,9 @@
     <div class="action">
       <h3 class="project-name" @click="toggleDetails">{{ project.name }}</h3>
       <div class="icons">
-        <span class="material-icons">
-          edit
-        </span>
+        <router-link :to="{ name: 'EditProject', params: { id: project.id } }">
+          <span class="material-icons">edit</span>
+        </router-link>
         <span @click="deleteProject" class="material-icons">
           delete
         </span>
